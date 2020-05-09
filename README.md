@@ -7,5 +7,5 @@ Chore Door Game
 <p> 4	See if how many streaks can you have!
 ### Codecademy Javascript Interactive Websites Module
 Implemented as a project on the Web Dev Career Path 
-###Website: 
+### Website: 
 <p> https://aladearchives.github.io/chore-door/
