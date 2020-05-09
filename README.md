@@ -6,4 +6,6 @@ Chore Door Game
 <p> 3	If you manage to avoid the ChoreBot until the second door, you win!
 <p> 4	See if how many streaks can you have!
 ### Codecademy Javascript Interactive Websites Module
-Implemented as a project on the Web Dev Career Path https://aladearchives.github.io/chore-door/
+Implemented as a project on the Web Dev Career Path 
+###Website: 
+<p> https://aladearchives.github.io/chore-door/
