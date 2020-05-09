@@ -5,7 +5,7 @@ Chore Door Game
 <p> 2	Your mission is to open two first doors without running into the ChoreBot.
 <p> 3	If you manage to avoid the ChoreBot until the second door, you win!
 <p> 4	See if how many streaks can you have!
-### Codecademy Javascript Interactive Websites Module
+<h3> ### Codecademy Javascript Interactive Websites Module
 Implemented as a project on the Web Dev Career Path 
-### Website: 
+<h3> ### Website: 
 <p> https://aladearchives.github.io/chore-door/
