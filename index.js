@@ -92,4 +92,4 @@ const gameOver = (status) => {
     }
     currentPlaying = false;
 }
-startRound();
+startRound(); 
